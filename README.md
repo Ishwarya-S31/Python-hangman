@@ -1,2 +1,0 @@
-# Python-hangman
-Python programming 
